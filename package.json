@@ -1,0 +1,20 @@
+{
+  "name": "myownabletut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ngenge Senior",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "2.2.0"
+  },
+  "devDependencies": {
+    "solc": "^0.5.2"
+  }
+}
